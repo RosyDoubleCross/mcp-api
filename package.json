@@ -1,0 +1,36 @@
+{
+  "name": "mcp-api",
+  "version": "0.0.1",
+  "description": "mcp-api",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "epilogue": "^0.6.5",
+    "express": "^4.13.3",
+    "sequelize": "^3.14.2"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RosyDoubleCross/mcp-api.git"
+  },
+  "keywords": [
+    "mcp-api",
+    "mcp",
+    "api",
+    "media",
+    "video",
+    "automation"
+  ],
+  "author": "Joe Lafiosca <joe@lafiosca.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RosyDoubleCross/mcp-api/issues"
+  },
+  "homepage": "https://github.com/RosyDoubleCross/mcp-api"
+}

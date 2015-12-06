@@ -1,0 +1,9 @@
+{
+    "development": {
+        "dialect": "postgres",
+        "host": "localhost",
+        "database": "mcp",
+        "username": "mcp",
+        "password": "strong_password"
+    }
+}
